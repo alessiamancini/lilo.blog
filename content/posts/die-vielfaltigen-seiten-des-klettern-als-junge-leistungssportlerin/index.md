@@ -3,6 +3,7 @@ title = "Die vielfaltigen Seiten des Klettern als junge Leistungssportlerin"
 date = "2024-03-15"
 draft = false
 pinned = false
+image = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fchalkr.de%2Fchalk.html&psig=AOvVaw3Z8TxsObLzFwq1t_DatNMr&ust=1710627358399000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCNuNSl94QDFQAAAAAdAAAAABAD"
 +++
 {{<Jil Couture ist die Boulder-Europameisterin in der Kategorie U18 2023. Schon seit ihrer Kindheit ist Klettern ihre Leidenschaft. Ab sechs Stunden Training pro Woche gilt man als Leistungssportler:in. Jil betreibt seit sie zwölf ist Leistungssport. Mittlerweile ist sie 17 Jahre alt und trainiert bis zu 17 Stunden pro Woche. In diesem Interview spricht sie darüber, was sie über all die Jahre antreibt, und über die Herausforderungen, denen sie als junge Leistungssportlerin begegnet.>}}
 

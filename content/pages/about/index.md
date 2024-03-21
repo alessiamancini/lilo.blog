@@ -1,8 +1,8 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
 ![](/img/default-author.jpg)
 
@@ -10,4 +10,6 @@ image = "/img/default-author.jpg"
 
 mail@example.org
 
-Here should be some info about me...
+Here should be some info about me...\
+\
+Let’s see if it is here.

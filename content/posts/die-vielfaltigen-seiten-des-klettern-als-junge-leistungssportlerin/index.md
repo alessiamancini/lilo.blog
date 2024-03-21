@@ -32,17 +32,17 @@ Grundsätzlich versuche ich überhaupt nicht die Nervosität loszuwerden, ich ve
 
 Einerseits möchte ich mich selbst mit meinen Leistungen stolz machen und mir beweisen, wofür ich so viel trainiere, andererseits möchte ich aber auch einfach gewinnen.
 
-> ## „Ich möchte mich selbst Stolz machen“
->
-> *\- Jil Couture*
+## „Ich möchte mich selbst Stolz machen“
+
+*\- Jil Couture*
 
 **Hast du manchmal das Gefühl, du verpasst etwas, weil du so viel trainierst?**
 
 Als ich jünger war, war das nie ein Problem für mich, und ich habe mir auch nicht sonderlich viele Gedanken darüber gemacht, was ich neben dem Klettern verpassen könnte. Heute kommt dieses Gefühl jedoch ab und zu auf, da ich kaum Zeit für etwas anderes neben dem Klettern habe. Trotzdem finde ich meist den Ausgleich.  
 
-> ## „Klettern ist meine grösste Leidenschaft, somit kann ich dieses Gefühl gut kompensieren“
->
-> *\- Jil Couture*
+## „Klettern ist meine grösste Leidenschaft, somit kann ich dieses Gefühl gut kompensieren“
+
+*\- Jil Couture*
 
 **Gab es jemals eine Zeit in der du dich sehr herausgefordert gefühlt hast im Bezug auf deine Mentalität, hattest du vielleicht weniger Selbstbewusst sein oder weniger Motivation etc.?**
 

@@ -35,7 +35,7 @@ Einerseits möchte ich mich selbst mit meinen Leistungen stolz machen und mir be
 
 > „Ich möchte mich selbst Stolz machen“
 >
-> *\- Jil Couture*
+> *Jil Couture*
 
 **Hast du manchmal das Gefühl, du verpasst etwas, weil du so viel trainierst?**
 
@@ -43,7 +43,7 @@ Als ich jünger war, war das nie ein Problem für mich, und ich habe mir auch ni
 
 > „Klettern ist meine grösste Leidenschaft, somit kann ich dieses Gefühl gut kompensieren“
 >
-> *\- Jil Couture*
+> *Jil Couture*
 
 **Gab es jemals eine Zeit in der du dich sehr herausgefordert gefühlt hast im Bezug auf deine Mentalität, hattest du vielleicht weniger Selbstbewusst sein oder weniger Motivation etc.?**
 

@@ -1,5 +1,5 @@
 +++
-title = "Leistungssportlerin"
+title = "Die vielfältigen Seiten des Klettern als junge Leistungssportlerin"
 date = "2024-03-23"
 draft = false
 pinned = false
